@@ -1,0 +1,7 @@
+print ('This program calculates the area of a triangle')
+a = (input('Please input the length of the base'))
+b = (input('please input the height of the triangle'))
+c = (0)
+sum = (a) * float(b) / float(2)
+sum = (c)
+print(c)
